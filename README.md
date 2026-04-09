@@ -18,6 +18,8 @@ TRAE Skills 是一种可复用的能力模块，用于扩展 TRAE IDE 的功能�
 ```
 ├── industry-innovation-strategist/  # 跨领域行业研究与产品创新战略专家技能
 │   └── SKILL.md                      # 技能定义文件
+├── Wechat-post-Design/               # 微信公众号推文主视觉模板设计
+│   └── SKILL.md                      # 技能定义文件
 ├── LICENSE                           # MIT 许可证
 └── README.md                         # 本说明文件
 ```
